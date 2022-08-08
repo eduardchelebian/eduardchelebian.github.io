@@ -4,9 +4,7 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
-  - title: "Education"
-    url: /education/
-  - title: "Blog"
+  - title: "Posts"
     url: /posts/
   - title: "CV"
     url: /cv/

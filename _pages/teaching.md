@@ -7,6 +7,8 @@ entries_layout: grid
 classes: wide
 ---
 
+## Department of Information Technology, Uppsala University, Sweden
+
 ### 2021/2022
 
 * [[Fall 2021]](https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1TD396&typ=1) Computer-Assisted Image Analysis I (1TD396) <br>
@@ -18,7 +20,7 @@ BSc level course, 5 ECTS
 * [[Spring 2022]](https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1MD120&typ=1) Deep Learning for Image Analysis (1MD120) <br>
 MSc level course, 7.5 ECTS
 
-### 2020/2021:
+### 2020/2021
 
 * [[Spring 2021]](https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1MD120&typ=1) Deep Learning for Image Analysis (1MD120) <br>
 MSc level course, 7.5 ECTS
