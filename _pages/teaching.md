@@ -9,9 +9,14 @@ classes: wide
 
 ## Department of Information Technology, Uppsala University, Sweden
 
+### 2022/2023
+
+* [[Fall 2022]](https://uppsala.instructure.com/courses/58516) Spatial Omics Data Analysis <br>
+Training event, no formal credits
+
 ### 2021/2022
 
-* [[Fall 2021]](https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1TD396&typ=1) Computer-Assisted Image Analysis I (1TD396) <br>
+* [[Fall 2022]](https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1TD396&typ=1) Computer-Assisted Image Analysis I (1TD396) <br>
 MSc level course, 5 ECTS
 
 * [[Spring 2022]](https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1DL034&typ=1) Introduction to Machine Learning (1DL034) <br>
