@@ -7,8 +7,6 @@ entries_layout: grid
 classes: wide
 ---
 
-## Department of Information Technology, Uppsala University, Sweden
-
 ### 2022/2023
 
 * [[Fall 2023]](https://uppsala.instructure.com/courses/58516) Spatial Omics Data Analysis <br>
