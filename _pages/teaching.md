@@ -11,8 +11,11 @@ classes: wide
 
 ### 2022/2023
 
-* [[Fall 2022]](https://uppsala.instructure.com/courses/58516) Spatial Omics Data Analysis <br>
+* [[Fall 2023]](https://uppsala.instructure.com/courses/58516) Spatial Omics Data Analysis <br>
 Training event, no formal credits
+
+* [[Fall 2023]](https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1TD396&typ=1) Computer-Assisted Image Analysis I (1TD396) <br>
+MSc level course, 5 ECTS
 
 ### 2021/2022
 
