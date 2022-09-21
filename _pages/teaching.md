@@ -1,11 +1,13 @@
 ---
-title: 
+title: Teaching
 layout: collection
 permalink: /teaching/
 collection: teaching
 entries_layout: grid
 classes: wide
 ---
+
+## Department of Information Technology, Uppsala University, Sweden
 
 ### 2022/2023
 
