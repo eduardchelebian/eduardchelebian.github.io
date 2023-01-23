@@ -9,7 +9,7 @@ classes: wide
 
 [Seeded iterative clustering for histology region identification](https://doi.org/10.48550/arXiv.2211.07425)<br>
 **E. Chelebian**, F. Ciompi, C. W&auml;hlby. <br>
-*Learning Meaningful Representations of Life, NeurIPS 2021*, doi: 10.48550/arXiv.2211.07425. November 15, 2022
+*Learning Meaningful Representations of Life, NeurIPS 2022*, doi: 10.48550/arXiv.2211.07425. November 15, 2022
 
 [TissUUmaps 3: Interactive visualization and quality assessment of large-scale spatial omics data](https://doi.org/10.1101/2022.01.28.478131)<br>
 N. Pielawski, A. Andersson, C. Avenel, A. Behanova, **E. Chelebian**, A. Klemm, F. Nysj&ouml;, L. Solorzano, C. W&auml;hlby. <br>
