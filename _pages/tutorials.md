@@ -4,6 +4,12 @@ entries_layout: grid
 classes: wide
 ---
 
+## Software
+
+
+
+## Tutorials
+
 |**Title** | **Description** |
 |-----------------------------|:-----------------:|
 |Loading and decoding ISS data <a href="https://uppsala.instructure.com/courses/58516">[course lab]</a>| The first lab (<a href="https://github.com/NBISweden/workshop-spatial/blob/main/labs/01_ISS_data_loading.ipynb">01_ISS_data_loading.ipynb</a>) includes examples on how to prepare data from starfish, read it, deconvolve and register. The second (<a href="https://github.com/NBISweden/workshop-spatial/blob/main/labs/02_ISS_decoding.ipynb">02_ISS_decoding.ipynb</a>) shows how to use starfish for decoding spots and performing quality contorl on TissUUmaps.|
