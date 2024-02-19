@@ -3,11 +3,6 @@ permalink: /tutorials/
 entries_layout: grid
 classes: wide
 ---
-
-## Software
-
-
-
 ## Tutorials
 
 |**Title** | **Description** |

@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-<iframe src="/assets/files/CV_Chelebian_nov23.pdf" width="75%" height="500px"></iframe>
+<iframe src="/assets/files/EduardChelebian_resume.pdf" width="75%" height="500px"></iframe>

@@ -15,6 +15,12 @@ My current research interests include:
 
 Prior to my PhD, I have also worked with deep learning and radiogenomics applied to MRI glioblastoma images.
 
+### 2024
+
+[DEPICTER: Deep representation clustering for histology annotation](https://doi.org/10.1016/j.compbiomed.2024.108026)<br>
+**E. Chelebian**, C. Avenel, F.Ciompi, C. W&auml;hlby. <br>
+*Heliyon*, doi: 10.1016/j.compbiomed.2024.108026. January 26, 2024.
+
 ### 2023
 
 [TissUUmaps 3: Improvements in Interactive Visualization, Exploration and Quality Assessment of Large-Scale Spatial Omics Data](https://doi.org/10.1016/j.heliyon.2023.e15306)<br>
