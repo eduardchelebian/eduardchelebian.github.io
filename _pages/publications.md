@@ -27,11 +27,7 @@ Prior to my PhD, I have also worked with deep learning and radiogenomics applied
 
 [DEPICTER: Deep representation clustering for histology annotation](https://doi.org/10.1016/j.compbiomed.2024.108026)<br>
 **E. Chelebian**, C. Avenel, F. Ciompi, C. W&auml;hlby. <br>
-<<<<<<< HEAD
 *Computers in Biology and Medicine*, doi: 10.1016/j.compbiomed.2024.108026. January, 2024.
-=======
-*Computers in Biology and Medicine*, doi: 10.1016/j.compbiomed.2024.108026. January 26, 2024.
->>>>>>> d860d6d30997b7cfe625b238744e7dea135e2cea
 
 ### 2023
 
