@@ -3,7 +3,6 @@ permalink: /tutorials/
 entries_layout: grid
 classes: wide
 ---
-## Tutorials
 
 |**Title** | **Description** |
 |-----------------------------|:-----------------:|
