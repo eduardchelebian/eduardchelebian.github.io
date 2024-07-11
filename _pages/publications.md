@@ -50,7 +50,7 @@ A. Behanova, C. Avenel, A. Andersson, **E. Chelebian**, A. Klemm, L. Wik, A. &ou
 ### 2021
 
 [Morphological Features Extracted by AI Associated with Spatial Transcriptomics in Prostate Cancer](https://doi.org/10.3390/cancers13194837)<br>
-**E. Chelebian**, C. Avenel, K. Kartasalo, M. Marklund, A. Tanoglidi, T. Mirtti, R. Colling, A. Erickson, A.D. Lamb, J. Lundeberg, and C. W&auml;hlby. <br>
+**E. Chelebian**, C. Avenel, K. Kartasalo, M. Marklund, A. Tanoglidi, T. Mirtti, R. Colling, A. Erickson, A.D. Lamb, J. Lundeberg, C. W&auml;hlby. <br>
 *Cancers*, doi: 10.3390/cancers13194837. September, 2021.
 
 [Differential effect of vascularity between long- and short-term survivors with IDH1/2 wild-type glioblastoma](https://doi.org/10.1002/nbm.4462)<br>
