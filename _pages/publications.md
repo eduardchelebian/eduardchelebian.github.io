@@ -10,18 +10,28 @@ classes: wide
 My current research interests include:
 
 -	Representation and weakly supervised learning in digital pathology. 
--	Spatial transcriptomics, morphology sn/scRNA integration. 
+-	Spatial transcriptomics, morphology and sn/scRNA integration. 
 -	Developement of bioinformatics and visualization tools.
 
 Prior to my PhD, I have also worked with deep learning and radiogenomics applied to MRI glioblastoma images.
 
 ### 2024
 
+[What makes for good morphology representations for spatial omics?](https://doi.org/10.48550/arXiv.2407.20660)
+<br>
+**E. Chelebian**, C. Avenel, C. W&auml;hlby. <br>
+*Under review*.
+
+[Discovery of tumour indicating morphological changes in benign prostate biopsies through AI](https://doi.org/10.1101/2024.06.18.24309064)
+<br>
+**E. Chelebian**, C. Avenel, H. J&auml;remo, P. Andersson, A. Bergh, C. W&auml;hlby. <br>
+*Under review*.
+
 [Learned morphological features guide cell type assignment of deconvolved spatial transcriptomics](https://openreview.net/forum?id=QfYXJUmIit)<br>
 **E. Chelebian**, C. Avenel, J. Leon, C.C. Hon, C. W&auml;hlby. <br>
-*C7th Medical Imaging with Deep Learning (MIDL 2024)*. July, 2024.
+*7th Medical Imaging with Deep Learning (MIDL 2024)*. July, 2024.
 
-[Self-supervised learning for genetically relevant domain identification]()<br>
+[Self-supervised learning for genetically relevant domain identification](https://doi.org/10.1109/ISBI56570.2024.10635503)<br>
 **E. Chelebian**, C. Avenel, C. W&auml;hlby. <br>
 *21st IEEE International Symposium on Biomedical Imaging (ISBI 2024)*. May, 2024.
 
